@@ -1,0 +1,32 @@
+| 频道 | 别名 | LOGO |
+| --- | --- | --- |
+| iHOT爱院线 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot01.png |
+| iHOT爱科幻 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot02.png |
+| iHOT爱喜剧 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot03.png |
+| iHOT爱奇谈 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot04.png |
+| iHOT爱探索 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot05.png |
+| iHOT爱解密 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot06.png |
+| iHOT爱科学 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot07.png |
+| iHOT爱猎奇 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot08.png |
+| iHOT爱浪漫 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot09.png |
+| iHOT爱历史 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot10.png |
+| iHOT爱动漫 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot11.png |
+| iHOT爱电竞 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot12.png |
+| iHOT爱玩具 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot13.png |
+| iHOT爱悬疑 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot14.png |
+| iHOT爱体育 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot15.png |
+| iHOT爱赛车 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot16.png |
+| iHOT爱世界 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot17.png |
+| iHOT爱极限 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot18.png |
+| iHOT爱旅行 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot19.png |
+| iHOT爱美食 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot20.png |
+| iHOT爱家庭 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot21.png |
+| iHOT爱青春 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot22.png |
+| iHOT爱时尚 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot23.png |
+| iHOT爱娱乐 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot24.png |
+| iHOT爱都市 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot25.png |
+| iHOT爱谍战 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot26.png |
+| iHOT爱经典 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot27.png |
+| iHOT爱江湖 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot28.png |
+| iHOT爱怀旧 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot29.png |
+| iHOT爱幼教 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/ihot30.png |

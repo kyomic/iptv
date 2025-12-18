@@ -1,0 +1,36 @@
+| 频道 | 别名 | LOGO |
+| --- | --- | --- |
+| NewTV军事评论 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV01.png |
+| NewTV军旅剧场 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV02.png |
+| NewTV动作电影 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV03.png |
+| NewTV古装剧场 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV04.png |
+| NewTV家庭剧场 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV05.png |
+| NewTV海外剧场 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV06.png |
+| NewTV中国功夫 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV07.png |
+| NewTV农业致富 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV08.png |
+| NewTV东北热剧 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV09.png |
+| NewTV惊悚悬疑 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV10.png |
+| NewTV怡伴健康 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV11.png |
+| NewTV明星大片 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV12.png |
+| NewTV欢乐剧场 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV13.png |
+| NewTV武搏世界 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV14.png |
+| NewTV潮妈辣婆 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV15.png |
+| NewTV炫舞未来 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV16.png |
+| NewTV爱情喜剧 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV17.png |
+| NewTV精品体育 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV18.png |
+| NewTV精品大剧 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV19.png |
+| NewTV精品纪录 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV20.png |
+| NewTV金牌综艺 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV21.png |
+| NewTV超级体育 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV22.png |
+| NewTV超级电影 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV23.png |
+| NewTV超级综艺 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV24.png |
+| NewTV超级电视剧 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV25.png |
+| NewTV魅力黑龙江 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV26.png |
+| NewTV魅力江西 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV27.png |
+| NewTV魅力山东 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV28.png |
+| NewTV魅力广东 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV29.png |
+| NewTV魅力四川 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV30.png |
+| NewTV魅力吉林 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV31.png |
+| NewTV魅力广西 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV32.png |
+| NewTV魅力云南 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV33.png |
+| NewTV魅力潇湘 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/NewTV34.png |
