@@ -1,7 +1,7 @@
 import inquirer from 'inquirer'
 import * as fs from 'fs'
 import * as path from 'path'
-import { ChannelGroup, Group } from './types'
+import { ChannelGroup, Group, Channel } from './types'
 
 /**
  * 提示用户是否继续执行
@@ -66,8 +66,8 @@ export function concatUrl(baseUrl: string, relativeUrl: string) {
 export function generateData(
   rootPath: string,
   config = {
-    baseUrl: 'https://raw.githubusercontent.com',
-    basePath: '/kyomic/iptv/master/data/assets/logo/',
+    baseUrl: '',
+    basePath: '/data/assets/logo/',
   }
 ): Array<Group> {
   const groupDirPath = path.resolve(rootPath, 'group')
@@ -179,9 +179,12 @@ export function parseMarkdownTable(md: string): Array<Record<string, string>> {
 export function generateMarkdownWithGroup(group: ChannelGroup) {
   let md = `| 频道 | 别名 | LOGO |\n`
   md += `| --- | --- | --- |\n`
+  let generateImage = (channel: Channel) => {
+    return `<img src="${channel.logo}" height="50" alt="${channel.name} ">`
+  }
   group.channels?.forEach(channel => {
     md += `| ${channel.name} | ${channel.alias || ''} | ${
-      channel.logo || ''
+      generateImage(channel) || ''
     } |\n`
   })
   md = md.replace(/\n$/, '') // 去除最后的换行符
