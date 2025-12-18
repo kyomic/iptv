@@ -1,6 +1,6 @@
 | 频道 | 别名 | LOGO |
 | --- | --- | --- |
-| CGTN |  | ![替代文字](/data/assets/logo/CGTN.png) |
+| CGTN |  | <img src="/data/assets/logo/CGTN.png" height="50" alt="替代文字"> |
 | CGTN纪录 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/CGTNjilu.png |
 | CGTN法语 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/CGTNfy.png |
 | CGTN俄语 |  | https://raw.githubusercontent.com/kyomic/iptv/master/data/assets/logo/CGTNey.png |
