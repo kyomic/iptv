@@ -104,7 +104,7 @@ export async function mergeMarkdown() {
     for (let j = 0; j < group['group_data'].length; j++) {
       let group: ChannelGroup = json[i]['group_data'][j]
       tmpFileName = group.name.trim() + '.md'
-      console.log('生成文件:', group.name, '=>', tmpFileName)
+      console.log('生成文件:', path.resolve(folderPath, tmpFileName))
       let tmpFilePath = path.resolve(folderPath, tmpFileName)
       let tmpFileContent = generateMarkdownWithGroup(group)
       fs.writeFileSync(tmpFilePath, tmpFileContent, 'utf-8')
@@ -114,6 +114,5 @@ export async function mergeMarkdown() {
 
 export const getChannelInfo = (md: string) => {
   const tableData = parseMarkdownTable(md)
-  console.log('tableData', tableData)
   return tableData
 }

@@ -119,7 +119,6 @@ export function generateData(
         console.log(`读取${groupChannel} 失败`, err)
       }
       const infos = parseMarkdownTable(channelMd)?.[0] || {}
-      console.log('infos', infos)
       currentChannels.channels.push({
         name: groupChannel,
         logo: concatUrl(config.baseUrl + config.basePath, infos['LOGO'] || ''),
@@ -127,7 +126,7 @@ export function generateData(
       })
     }
   })
-  console.log(JSON.stringify(result, null, 2))
+  // console.log(JSON.stringify(result, null, 2))
   return result
 }
 

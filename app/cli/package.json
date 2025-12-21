@@ -1,17 +1,37 @@
 {
-  "name": "cli",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.ts",
+  "name": "@cookee/iptv-cli",
+  "version": "1.0.1",
+  "description": "IPTV channel management CLI tool",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
   "type": "module",
+  "bin": {
+    "iptv-cli": "./dist/index.mjs"
+  },
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
-    "build": "tsup src/index.ts --format esm,cjs --dts",
+    "build": "tsup index.ts --format esm,cjs --dts && npm link",
     "watch": "tsup index.ts --watch",
     "dev": "tsup index.ts && node dist/index.mjs",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublishOnly": "npm run build",
+    "release:patch": "npm version patch && npm publish",
+    "release:minor": "npm version minor && npm publish",
+    "release:major": "npm version major && npm publish"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "iptv",
+    "cli",
+    "channel",
+    "management"
+  ],
+  "author": "kyomic",
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.6.2",
@@ -24,6 +44,9 @@
     "ts-node": "^10.9.2",
     "tsup": "^8.5.1",
     "typescript": "^5.9.3"
+  },
+  "overrides": {
+    "esbuild": "0.19.12"
   },
   "pnpm": {
     "overrides": {
