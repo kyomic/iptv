@@ -1,6 +1,6 @@
 {
   "name": "@cookee/iptv-cli",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "IPTV channel management CLI tool",
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
@@ -10,7 +10,8 @@
     "iptv-cli": "./dist/index.mjs"
   },
   "files": [
-    "dist"
+    "dist",
+    "README.md"
   ],
   "publishConfig": {
     "access": "public"
@@ -33,6 +34,15 @@
   ],
   "author": "kyomic",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kyomic/iptv.git",
+    "directory": "app/cli"
+  },
+  "bugs": {
+    "url": "https://github.com/kyomic/iptv/issues"
+  },
+  "homepage": "https://github.com/kyomic/iptv#readme",
   "dependencies": {
     "chalk": "^5.6.2",
     "commander": "^14.0.2",
