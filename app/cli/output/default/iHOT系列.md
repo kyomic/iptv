@@ -1,0 +1,32 @@
+| 频道 | 别名 | LOGO |
+| --- | --- | --- |
+| iHOT爱院线 |  | <img src="/data/assets/logo/ihot01.png" height="50" alt="iHOT爱院线 "> |
+| iHOT爱科幻 |  | <img src="/data/assets/logo/ihot02.png" height="50" alt="iHOT爱科幻 "> |
+| iHOT爱喜剧 |  | <img src="/data/assets/logo/ihot03.png" height="50" alt="iHOT爱喜剧 "> |
+| iHOT爱奇谈 |  | <img src="/data/assets/logo/ihot04.png" height="50" alt="iHOT爱奇谈 "> |
+| iHOT爱探索 |  | <img src="/data/assets/logo/ihot05.png" height="50" alt="iHOT爱探索 "> |
+| iHOT爱解密 |  | <img src="/data/assets/logo/ihot06.png" height="50" alt="iHOT爱解密 "> |
+| iHOT爱科学 |  | <img src="/data/assets/logo/ihot07.png" height="50" alt="iHOT爱科学 "> |
+| iHOT爱猎奇 |  | <img src="/data/assets/logo/ihot08.png" height="50" alt="iHOT爱猎奇 "> |
+| iHOT爱浪漫 |  | <img src="/data/assets/logo/ihot09.png" height="50" alt="iHOT爱浪漫 "> |
+| iHOT爱历史 |  | <img src="/data/assets/logo/ihot10.png" height="50" alt="iHOT爱历史 "> |
+| iHOT爱动漫 |  | <img src="/data/assets/logo/ihot11.png" height="50" alt="iHOT爱动漫 "> |
+| iHOT爱电竞 |  | <img src="/data/assets/logo/ihot12.png" height="50" alt="iHOT爱电竞 "> |
+| iHOT爱玩具 |  | <img src="/data/assets/logo/ihot13.png" height="50" alt="iHOT爱玩具 "> |
+| iHOT爱悬疑 |  | <img src="/data/assets/logo/ihot14.png" height="50" alt="iHOT爱悬疑 "> |
+| iHOT爱体育 |  | <img src="/data/assets/logo/ihot15.png" height="50" alt="iHOT爱体育 "> |
+| iHOT爱赛车 |  | <img src="/data/assets/logo/ihot16.png" height="50" alt="iHOT爱赛车 "> |
+| iHOT爱世界 |  | <img src="/data/assets/logo/ihot17.png" height="50" alt="iHOT爱世界 "> |
+| iHOT爱极限 |  | <img src="/data/assets/logo/ihot18.png" height="50" alt="iHOT爱极限 "> |
+| iHOT爱旅行 |  | <img src="/data/assets/logo/ihot19.png" height="50" alt="iHOT爱旅行 "> |
+| iHOT爱美食 |  | <img src="/data/assets/logo/ihot20.png" height="50" alt="iHOT爱美食 "> |
+| iHOT爱家庭 |  | <img src="/data/assets/logo/ihot21.png" height="50" alt="iHOT爱家庭 "> |
+| iHOT爱青春 |  | <img src="/data/assets/logo/ihot22.png" height="50" alt="iHOT爱青春 "> |
+| iHOT爱时尚 |  | <img src="/data/assets/logo/ihot23.png" height="50" alt="iHOT爱时尚 "> |
+| iHOT爱娱乐 |  | <img src="/data/assets/logo/ihot24.png" height="50" alt="iHOT爱娱乐 "> |
+| iHOT爱都市 |  | <img src="/data/assets/logo/ihot25.png" height="50" alt="iHOT爱都市 "> |
+| iHOT爱谍战 |  | <img src="/data/assets/logo/ihot26.png" height="50" alt="iHOT爱谍战 "> |
+| iHOT爱经典 |  | <img src="/data/assets/logo/ihot27.png" height="50" alt="iHOT爱经典 "> |
+| iHOT爱江湖 |  | <img src="/data/assets/logo/ihot28.png" height="50" alt="iHOT爱江湖 "> |
+| iHOT爱怀旧 |  | <img src="/data/assets/logo/ihot29.png" height="50" alt="iHOT爱怀旧 "> |
+| iHOT爱幼教 |  | <img src="/data/assets/logo/ihot30.png" height="50" alt="iHOT爱幼教 "> |
